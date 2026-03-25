@@ -137,7 +137,7 @@ sobre o prompt/SOBRE_O_PROMPT.md
 
 Ou diretamente:
 
-[Ver Prompt do Agente](./sobre%20o%20prompt/SOBRE_O_PROMPT.md)
+[Ver Prompt do Agente](Agent_demo_1.0/sobre%20o%20prompt/SOBRE_O_PROMPT.md)
 
 ---
 
