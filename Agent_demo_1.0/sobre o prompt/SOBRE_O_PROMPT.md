@@ -1,7 +1,6 @@
 
 ---
 
-# SOBREOPROMPT.md
 
 ## 🎯 Objetivo
 Este documento explica as técnicas utilizadas na construção do **prompt do agente de análise de sistemas e levantamento de requisitos**, destacando como ele foi projetado para gerar **documentação pré‑desenvolvimento clara, estruturada e orientada ao conceito de MVP (Produto Mínimo Viável)**.
