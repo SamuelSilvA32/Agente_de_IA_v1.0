@@ -1,7 +1,7 @@
 
 ---
 
-# 🤖 Agent Demo 0.1
+# 🤖 Agent Demo 1.0
 
 Agente de Requisitos de Software que converte ideias de produto/negócio em **documentação estruturada de requisitos, arquitetura e MVP**.
 
