@@ -1,4 +1,3 @@
-Aqui vai uma versão mais **limpa, profissional e agradável de ler** — com melhor hierarquia, ícones, e fluxo mais natural 👇
 
 ---
 
@@ -62,7 +61,7 @@ Agent_demo_0.1
 
 # 🖥️ 4. Interface
 
-![Interface do Agente](./imgs/interface.png)
+![Interface do Agente](Agent_demo_1.0/imgs/interface.png)
 
 ---
 
